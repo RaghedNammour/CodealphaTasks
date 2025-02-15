@@ -1,0 +1,3 @@
+This is a Python Secure code review:
+1. run Secure code review after installing nessasary libraries
+2. then in the terminal run this manual command: bandit -f json --debug "C:/path/script for testing.py
